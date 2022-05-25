@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="Stack"/>
+	<classpathentry kind="src" path="Queue"/>
+	<classpathentry kind="src" path="SinglyLinkedList"/>
+	<classpathentry kind="src" path="DoublyLinkedList"/>
+	<classpathentry kind="src" path="CircularSinglyLinkedList"/>
+	<classpathentry kind="src" path="DoublyCircularLinkedList"/>
+	<classpathentry kind="src" path="Trees"/>
+	<classpathentry kind="src" path="binarySearchTree"/>
+	<classpathentry kind="src" path="AVL trees"/>
+	<classpathentry kind="src" path="Graph Using List"/>
+	<classpathentry kind="src" path="Graph Using Matrix"/>
+	<classpathentry kind="src" path="Arrays"/>
+	<classpathentry kind="src" path="Hashing"/>
+	<classpathentry kind="src" path="Deque"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
